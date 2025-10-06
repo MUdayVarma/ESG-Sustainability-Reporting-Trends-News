@@ -1,0 +1,5 @@
+- [20250925]: [Watershed Launches AI-Powered Product Carbon Footprint Solution](https://www.esgtoday.com/watershed-launches-ai-powered-product-carbon-footprint-solution/): Watershed announced the launch of Watershed Product Footprints, a new AI-powered solution aimed at enabling companies to measure and address the carbon footprint of products, materials and processes.
+
+  According to Watershed, the new solution comes as companies continue to face challenges in assessing and understanding their upstream purchasing emissions, which can account for 70% or more of a company’s total carbon footprint, with spend-based estimates often providing an inaccurate picture, and detailed carbon assessments remaining prohibitively expensive and slow to produce.
+
+  In a post announcing the new product release, Watershed said: "For decades, companies have been forced to make sustainability and procurement decisions based on incomplete or inaccurate emissions data because existing approaches simply don’t work at scale. Product Footprints demonstrates how AI, when encoded with sustainability intelligence, can transform corporate sustainability.”
