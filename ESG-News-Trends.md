@@ -1,3 +1,6 @@
+
+- [202501006]: [Singapore Releases Anti-Greenwashing Guidance for Companies](https://www.esgtoday.com/singapore-releases-anti-greenwashing-guidance-for-companies/): Singapore’s Ministry of Trade and Industry’s Competition and Consumer Commission of Singapore (CCS) announced today the issuance of a new guide aimed at helping companies navigate quality-related claims and avoid potential greenwashing in marketing about their products, services and their businesses.
+
 - [20250925]: [Watershed Launches AI-Powered Product Carbon Footprint Solution](https://www.esgtoday.com/watershed-launches-ai-powered-product-carbon-footprint-solution/): Watershed announced the launch of Watershed Product Footprints, a new AI-powered solution aimed at enabling companies to measure and address the carbon footprint of products, materials and processes.
 
   According to Watershed, the new solution comes as companies continue to face challenges in assessing and understanding their upstream purchasing emissions, which can account for 70% or more of a company’s total carbon footprint, with spend-based estimates often providing an inaccurate picture, and detailed carbon assessments remaining prohibitively expensive and slow to produce.
