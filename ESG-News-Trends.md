@@ -1,4 +1,8 @@
 
+  - [20251028: UK to Regulate ESG Ratings Providers](https://www.esgtoday.com/uk-to-regulate-esg-ratings-providers/) - The FCA (Financial Conduct Authority) says _“ESG ratings continue to play a critical role in influencing investment and capital allocation decisions. The legislation, which was broadly supported by the industry, will provide us with the necessary powers to regulate ESG ratings providers – an important step towards ensuring that there are transparent, reliable and comparable ESG ratings.”_
+
+    Regulation of ESG ratings providers under the new legislation will come into effect in June 2028.
+
   - [20251022]:
     -   [GHG Protocol Releases Draft Update to Framework for Reporting Scope 2 Emissions](https://www.esgtoday.com/ghg-protocol-releases-update-to-framework-for-reporting-scope-2-emissions/)
     -   [CDP, GRI Launch Tool to Help Companies Report on Climate and Energy Across Frameworks](https://www.esgtoday.com/cdp-gri-launch-tool-to-help-companies-report-on-climate-and-energy-across-frameworks/) 
