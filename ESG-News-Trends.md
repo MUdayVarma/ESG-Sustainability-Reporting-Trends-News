@@ -1,9 +1,13 @@
 
-# Governments and Regulators
+# Governments and Regulators and Standards
 
+  - [20251110: SBTi Proposes More Flexible Corporate Net Zero Standard](https://www.esgtoday.com/sbti-increases-climate-target-flexibility-in-new-proposed-corporate-net-zero-standard/)
+    
   - [20251028: UK to Regulate ESG Ratings Providers](https://www.esgtoday.com/uk-to-regulate-esg-ratings-providers/) - The FCA (Financial Conduct Authority) says _“ESG ratings continue to play a critical role in influencing investment and capital allocation decisions. The legislation, which was broadly supported by the industry, will provide us with the necessary powers to regulate ESG ratings providers – an important step towards ensuring that there are transparent, reliable and comparable ESG ratings.”_
 
     Regulation of ESG ratings providers under the new legislation will come into effect in June 2028.
+
+  - [20251027: ISO-GHG Protocol to Jointly Develop New Product-Level GHG Accounting Standard](https://ghgprotocol.org/blog/announcement-iso-ghg-protocol-jointly-develop-new-product-level-ghg-accounting-standard-call) Building on ISO 14067 and the existing GHG Protocol Product Life Cycle Accounting and Reporting Standard, the new standard will maintain continuity with existing frameworks while advancing toward a unified global methodology.
 
 # Sustainability Goals, Initiatives and Achievements
 
