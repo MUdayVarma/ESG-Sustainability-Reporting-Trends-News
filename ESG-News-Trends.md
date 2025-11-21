@@ -18,6 +18,10 @@
 
 # ESG Reporting
 
+  - [20251110: SBTi Proposes More Flexible Corporate Net Zero Standard](https://www.esgtoday.com/sbti-increases-climate-target-flexibility-in-new-proposed-corporate-net-zero-standard/)
+
+  - 
+    
   - [20251030: ISSB Says “Passporting Provisions” Needed for Acceptance of Sustainability Reporting Across Jurisdictions](https://www.esgtoday.com/issb-says-passporting-provisions-needed-for-global-acceptance-of-sustainability-reporting-across-jurisdictions/) - The ISSB was launched in November 2021 at the COP26 climate conference, with the goal to develop IFRS Sustainability Disclosure Standards to provide investors with information about companies’ sustainability risks and opportunities. The IFRS released the inaugural general sustainability (IFRS S1) and climate (IFRS S2) reporting standards in June 2023.
     
   - [20251022]:
@@ -26,6 +30,8 @@
     -   [CDP, GRI Launch Tool to Help Companies Report on Climate and Energy Across Frameworks](https://www.esgtoday.com/cdp-gri-launch-tool-to-help-companies-report-on-climate-and-energy-across-frameworks/) 
     
 # ESG Services and Tools
+
+- [20251110: Carbon Direct Acquires Carbon Project MRV Platform Pachama](https://www.esgtoday.com/carbon-direct-acquires-carbon-project-mrv-platform-pachama/)
 
 - [20251010]; [Worldly Acquires Apparel Sector Sustainability Data Platform GoBlu](https://www.esgtoday.com/worldly-acquires-apparel-sector-sustainability-data-platform-goblu/): Sustainability data and analytics solutions provider Worldly announced today the acquisition of textile and apparel sector-focused environmental data platform GoBlu, in a move aimed at advancing the unification of systems for tracking social and environmental performance across consumer goods supply chains. Founded in 2015, GoBlu provides digital sustainability-focused tools including brand-level, supply chain-level, and communications services for the textile and apparel industry. The company’s flagship platform, The BHive, allows factories and brands to digitize all steps in the chemical management process from chemical product entry to analysis, performance management and reporting, enabling chemical inventory management, traceability, and compliance.
   
