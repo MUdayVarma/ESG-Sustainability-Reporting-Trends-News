@@ -11,6 +11,8 @@
 
 # Sustainability Goals, Initiatives and Achievements
 
+  - [20251119: Marks and Spencer Launches New Fashion Supply Chain Decarbonization Program](https://www.esgtoday.com/marks-and-spencer-launches-fashion-supply-chain-decarbonization-program/) 
+    
   - [20251020]: [Industrial, Investment, Energy Giants Launch Coalition to Establish a Global Carbon Accounting Framework](https://www.esgtoday.com/industrial-investment-energy-giants-launch-coalition-to-establish-a-global-carbon-accounting-framework/): A group of leading financial, energy and industrial companies including **BlackRock's GIP, ExxonMobil, Honeywell and EY**, among others, announced today the launch of Carbon Measures, a new coalition aimed at advancing a more accurate and consistent accounting framework to track carbon emissions at the company and product level, and carbon intensity standards for key industrial products. While focusing on the new carbon accounting framework, the coalition said that it will also prioritize designing carbon intensity standards for key industrial products that form the basis of most supply chains, such as electricity, fuel, steel, concrete and chemicals.
 
   - [202501006]: [Singapore Releases Anti-Greenwashing Guidance for Companies](https://www.esgtoday.com/singapore-releases-anti-greenwashing-guidance-for-companies/): Singapore’s Ministry of Trade and Industry’s Competition and Consumer Commission of Singapore (CCS) announced today the issuance of a new guide aimed at helping companies navigate quality-related claims and avoid potential greenwashing in marketing about their products, services and their businesses.
