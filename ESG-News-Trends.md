@@ -20,9 +20,9 @@
 
 # ESG Reporting
 
+  - [20251204: EFRAG Releases Simplified European Sustainability Reporting Standards - ESRS-E1 ](https://www.esgtoday.com/efrag-releases-simplified-european-sustainability-reporting-standards/)
+    
   - [20251110: SBTi Proposes More Flexible Corporate Net Zero Standard](https://www.esgtoday.com/sbti-increases-climate-target-flexibility-in-new-proposed-corporate-net-zero-standard/)
-
-  - 
     
   - [20251030: ISSB Says “Passporting Provisions” Needed for Acceptance of Sustainability Reporting Across Jurisdictions](https://www.esgtoday.com/issb-says-passporting-provisions-needed-for-global-acceptance-of-sustainability-reporting-across-jurisdictions/) - The ISSB was launched in November 2021 at the COP26 climate conference, with the goal to develop IFRS Sustainability Disclosure Standards to provide investors with information about companies’ sustainability risks and opportunities. The IFRS released the inaugural general sustainability (IFRS S1) and climate (IFRS S2) reporting standards in June 2023.
     
