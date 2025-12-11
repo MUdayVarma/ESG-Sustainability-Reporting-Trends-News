@@ -20,6 +20,8 @@
 
 # ESG Reporting
 
+  - [20251210: GRI Releases New Draft Standards for Workforce Human Rights Disclosure Standards](https://www.esgtoday.com/gri-releases-new-draft-standards-for-workforce-human-rights-disclosure-standards)
+    
   - [20251204: EFRAG Releases Simplified European Sustainability Reporting Standards - ESRS-E1 ](https://www.esgtoday.com/efrag-releases-simplified-european-sustainability-reporting-standards/)
     
   - [20251110: SBTi Proposes More Flexible Corporate Net Zero Standard](https://www.esgtoday.com/sbti-increases-climate-target-flexibility-in-new-proposed-corporate-net-zero-standard/)
