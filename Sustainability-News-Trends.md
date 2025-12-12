@@ -1,4 +1,6 @@
 
+[20251212 - 95% of Business Leaders View Climate Transition as Source of Growth and Opportunity: HSBC Survey](https://www.esgtoday.com/95-of-business-leaders-view-climate-transition-as-source-of-growth-and-opportunity-hsbc-survey) 
+
 [20251010] - [Google Rolls Out Carbon Footprint Reporting for Advertisers](https://www.esgtoday.com/google-rolls-out-carbon-footprint-reporting-for-advertisers/): Google announced the rollout of Carbon Footprint for Google Ads, its new service aimed at enabling advertisers to measure and manage the carbon emissions related to their advertising activities.
 
 
