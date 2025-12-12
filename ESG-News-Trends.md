@@ -1,6 +1,8 @@
 
 # Governments and Regulators and Standards
 
+  - [20251211: ISSB Eases Climate Reporting Requirements for Finance Firms](https://www.esgtoday.com/issb-eases-scope-3-reporting-requirements-for-financial-sector-2)
+    
   - [20251110: SBTi Proposes More Flexible Corporate Net Zero Standard](https://www.esgtoday.com/sbti-increases-climate-target-flexibility-in-new-proposed-corporate-net-zero-standard/)
     
   - [20251028: UK to Regulate ESG Ratings Providers](https://www.esgtoday.com/uk-to-regulate-esg-ratings-providers/) - The FCA (Financial Conduct Authority) says _“ESG ratings continue to play a critical role in influencing investment and capital allocation decisions. The legislation, which was broadly supported by the industry, will provide us with the necessary powers to regulate ESG ratings providers – an important step towards ensuring that there are transparent, reliable and comparable ESG ratings.”_
