@@ -37,6 +37,8 @@
     
 # ESG Services and Tools
 
+- [20251209 - Guest Post – 2026: The Year AI and Sustainability Become a Unified Performance Engine](https://www.esgtoday.com/guest-post-2026-the-year-ai-and-sustainability-become-a-unified-performance-engine/)
+  
 - [20251110: Carbon Direct Acquires Carbon Project MRV Platform Pachama](https://www.esgtoday.com/carbon-direct-acquires-carbon-project-mrv-platform-pachama/)
 
 - [20251010]; [Worldly Acquires Apparel Sector Sustainability Data Platform GoBlu](https://www.esgtoday.com/worldly-acquires-apparel-sector-sustainability-data-platform-goblu/): Sustainability data and analytics solutions provider Worldly announced today the acquisition of textile and apparel sector-focused environmental data platform GoBlu, in a move aimed at advancing the unification of systems for tracking social and environmental performance across consumer goods supply chains. Founded in 2015, GoBlu provides digital sustainability-focused tools including brand-level, supply chain-level, and communications services for the textile and apparel industry. The company’s flagship platform, The BHive, allows factories and brands to digitize all steps in the chemical management process from chemical product entry to analysis, performance management and reporting, enabling chemical inventory management, traceability, and compliance.
