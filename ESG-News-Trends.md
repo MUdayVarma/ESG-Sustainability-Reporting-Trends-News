@@ -22,6 +22,8 @@
 
 # ESG Reporting
 
+  - [20251215 - New York Releases Regulation Requiring Mandatory GHG Reporting for Large Emitters from 2027](https://www.esgtoday.com/new-york-releases-regulation-requiring-mandatory-ghg-reporting-for-large-emitters-from-2027/)
+    
   - [20251210: GRI Releases New Draft Standards for Workforce Human Rights Disclosure Standards](https://www.esgtoday.com/gri-releases-new-draft-standards-for-workforce-human-rights-disclosure-standards)
     
   - [20251204: EFRAG Releases Simplified European Sustainability Reporting Standards - ESRS-E1 ](https://www.esgtoday.com/efrag-releases-simplified-european-sustainability-reporting-standards/)
