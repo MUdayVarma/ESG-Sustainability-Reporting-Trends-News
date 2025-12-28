@@ -13,6 +13,16 @@
 
 # Sustainability Goals, Initiatives and Achievements
 
+  - [20251218: 2026 The Credibility Test – Eight Sustainability Trends that Will Matter for Businesses](https://www.esgtoday.com/guest-post-2026-the-credibility-test-eight-sustainability-trends-that-will-matter-for-businesses/)
+    #1 European reporting eases, Asia and the market don’t
+    #2 Clean energy wins on cost, not just principle
+    #3 Nature finance and land-based mitigation move to the centre
+    #4 Climate risk becomes a live financial issue, not a disclosure exercise
+    #5 Adaptation moved out of climate mitigation’s shadow
+    #6 Voluntary carbon markets mature and buyer behaviour shifts
+    #7 AI starts to fill the capacity gap in sustainability teams
+    #8 Value chain collaboration becomes the real differentiator
+  
   - [20251119: Marks and Spencer Launches New Fashion Supply Chain Decarbonization Program](https://www.esgtoday.com/marks-and-spencer-launches-fashion-supply-chain-decarbonization-program/) 
     
   - [20251020]: [Industrial, Investment, Energy Giants Launch Coalition to Establish a Global Carbon Accounting Framework](https://www.esgtoday.com/industrial-investment-energy-giants-launch-coalition-to-establish-a-global-carbon-accounting-framework/): A group of leading financial, energy and industrial companies including **BlackRock's GIP, ExxonMobil, Honeywell and EY**, among others, announced today the launch of Carbon Measures, a new coalition aimed at advancing a more accurate and consistent accounting framework to track carbon emissions at the company and product level, and carbon intensity standards for key industrial products. While focusing on the new carbon accounting framework, the coalition said that it will also prioritize designing carbon intensity standards for key industrial products that form the basis of most supply chains, such as electricity, fuel, steel, concrete and chemicals.
