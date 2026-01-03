@@ -56,4 +56,11 @@
 - [20251010]; [Worldly Acquires Apparel Sector Sustainability Data Platform GoBlu](https://www.esgtoday.com/worldly-acquires-apparel-sector-sustainability-data-platform-goblu/): Sustainability data and analytics solutions provider Worldly announced today the acquisition of textile and apparel sector-focused environmental data platform GoBlu, in a move aimed at advancing the unification of systems for tracking social and environmental performance across consumer goods supply chains. Founded in 2015, GoBlu provides digital sustainability-focused tools including brand-level, supply chain-level, and communications services for the textile and apparel industry. The company’s flagship platform, The BHive, allows factories and brands to digitize all steps in the chemical management process from chemical product entry to analysis, performance management and reporting, enabling chemical inventory management, traceability, and compliance.
   
 - [20250925]: [Watershed Launches AI-Powered Product Carbon Footprint Solution](https://www.esgtoday.com/watershed-launches-ai-powered-product-carbon-footprint-solution/): Watershed announced the launch of Watershed Product Footprints, a new AI-powered solution aimed at enabling companies to measure and address the carbon footprint of products, materials and processes. According to Watershed, the new solution comes as companies continue to face challenges in assessing and understanding their upstream purchasing emissions, which can account for 70% or more of a company’s total carbon footprint, with spend-based estimates often providing an inaccurate picture, and detailed carbon assessments remaining prohibitively expensive and slow to produce. In a post announcing the new product release, Watershed said: "For decades, companies have been forced to make sustainability and procurement decisions based on incomplete or inaccurate emissions data because existing approaches simply don’t work at scale. Product Footprints demonstrates how AI, when encoded with sustainability intelligence, can transform corporate sustainability.”
+  
 # Sustainable Finance, Sustainable Investing
+
+- [20251222 - Guest Post: COP30 Moved Adaptation Goals to 2035. The Financial Risks Arrive Sooner](https://www.esgtoday.com/guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner/)
+
+- 
+
+
