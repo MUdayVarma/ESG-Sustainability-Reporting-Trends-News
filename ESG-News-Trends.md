@@ -1,6 +1,12 @@
 
 # Governments and Regulators and Standards
 
+  - [20260106: Philippines Launches Mandatory IFRS-Based Sustainability Reporting Standards](https://www.esgtoday.com/philippines-launches-mandatory-ifrs-based-sustainability-reporting-standards/)
+  
+  - [20260105: China Releases Corporate Climate Reporting Standard](https://www.esgtoday.com/china-releases-corporate-climate-reporting-standard/)
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
   - [20251211: ISSB Eases Climate Reporting Requirements for Finance Firms](https://www.esgtoday.com/issb-eases-scope-3-reporting-requirements-for-financial-sector-2)
     
   - [20251110: SBTi Proposes More Flexible Corporate Net Zero Standard](https://www.esgtoday.com/sbti-increases-climate-target-flexibility-in-new-proposed-corporate-net-zero-standard/)
