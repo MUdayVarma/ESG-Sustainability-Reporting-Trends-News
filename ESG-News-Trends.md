@@ -1,4 +1,8 @@
 
+# Surveys
+
+[20251212 - 95% of Business Leaders View Climate Transition as Source of Growth and Opportunity: HSBC Survey](https://www.esgtoday.com/95-of-business-leaders-view-climate-transition-as-source-of-growth-and-opportunity-hsbc-survey) 
+
 # Governments and Regulators and Standards
 
   - [20260106: Philippines Launches Mandatory IFRS-Based Sustainability Reporting Standards](https://www.esgtoday.com/philippines-launches-mandatory-ifrs-based-sustainability-reporting-standards/)
