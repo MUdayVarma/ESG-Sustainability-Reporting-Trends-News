@@ -5,6 +5,8 @@
 
 # Governments and Regulators and Standards
 
+  - [20260127 - The UK’s Competition and Markets Authority (CMA) announced the release of new guidance aimed at helping businesses](https://www.esgtoday.com/uk-regulator-warns-retailers-they-could-be-on-the-hook-for-misleading-green-claims-from-manufacturers/) including retailers, brands and manufacturers to understand supply chain responsibility for making accurate green claims. The guidance indicates that businesses may be liable for misleading environmental claims, even if they are only passing along information provided farther up the value chain.
+    
   - [20260106: Philippines Launches Mandatory IFRS-Based Sustainability Reporting Standards](https://www.esgtoday.com/philippines-launches-mandatory-ifrs-based-sustainability-reporting-standards/)
   
   - [20260105: China Releases Corporate Climate Reporting Standard](https://www.esgtoday.com/china-releases-corporate-climate-reporting-standard/)
