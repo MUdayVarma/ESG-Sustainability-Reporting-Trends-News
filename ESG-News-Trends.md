@@ -5,6 +5,10 @@
 
 # Governments and Regulators and Standards
 
+  - [20260129 - IPSASB Launches Climate-Related Reporting Standard for Governments, Public Sector](https://www.esgtoday.com/ipsasb-launches-climate-related-reporting-standard-for-governments-public-sector/)
+      - The International Public Sector Accounting Standards Board (IPSASB) announced the release of its finalized “IPSASB SRS 1, Climate-related Disclosures,” a new standard aimed at enabling governments and public sector entities report on climate-related risks and opportunities, marking the first sustainability reporting standard for the public sector.
+      - Generally aligned with IFRS S2, disclosure requirements under the new standard include the oversight of climate-related risks and opportunities, strategy and decision-making, processes to identify, assess, prioritize and monitor climate-related risks and opportunities, and Scopes 1, 2, and 3 emissions. The  standard takes effect for disclosures beginning January 2028.
+
   - [20260127 - The UK’s Competition and Markets Authority (CMA) announced the release of new guidance aimed at helping businesses](https://www.esgtoday.com/uk-regulator-warns-retailers-they-could-be-on-the-hook-for-misleading-green-claims-from-manufacturers/) including retailers, brands and manufacturers to understand supply chain responsibility for making accurate green claims. The guidance indicates that businesses may be liable for misleading environmental claims, even if they are only passing along information provided farther up the value chain.
     
   - [20260106: Philippines Launches Mandatory IFRS-Based Sustainability Reporting Standards](https://www.esgtoday.com/philippines-launches-mandatory-ifrs-based-sustainability-reporting-standards/)
