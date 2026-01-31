@@ -5,6 +5,11 @@
 
 # Governments and Regulators and Standards
 
+  - [20260119: ECB to Intensify Monitoring of Physical Climate Risk Impact, Transition Plans for Banks](https://www.esgtoday.com/ecb-to-intensify-monitoring-of-physical-climate-risk-impact-transition-plans-for-banks/)
+      - The European Central Bank (ECB) revealed a series of new priority areas to advance its work on embedding climate and nature-related risks into its activities, including plans to intensity its work in areas including assessing banks’ green economy transition plans and on analyzing their capabilities to address risks related to the growing physical impacts of climate change.
+      - Under the green transition priority area the ECB said that it aims to focus on aspects including assessing banks’ prudential transition plans, further analysis on energy and fiscal costs, and exploring how climate-related considerations could be further incorporated into the operational framework.
+      - EBC said: “The ECB needs to account for the effects of climate change and nature degradation in the conduct of its tasks within its mandate. Climate change has profound implications for price stability through its impact on the structure and cyclical dynamics of the economy and the financial system.”
+        
   - [20260129 - IPSASB Launches Climate-Related Reporting Standard for Governments, Public Sector](https://www.esgtoday.com/ipsasb-launches-climate-related-reporting-standard-for-governments-public-sector/)
       - The International Public Sector Accounting Standards Board (IPSASB) announced the release of its finalized “IPSASB SRS 1, Climate-related Disclosures,” a new standard aimed at enabling governments and public sector entities report on climate-related risks and opportunities, marking the first sustainability reporting standard for the public sector.
       - Generally aligned with IFRS S2, disclosure requirements under the new standard include the oversight of climate-related risks and opportunities, strategy and decision-making, processes to identify, assess, prioritize and monitor climate-related risks and opportunities, and Scopes 1, 2, and 3 emissions. The  standard takes effect for disclosures beginning January 2028.
@@ -48,6 +53,10 @@
 
 # ESG Reporting
 
+  - [20260119 - ICC, Carbon Measures Form Expert Panel to Launch a Global Carbon Accounting Framework](https://www.esgtoday.com/icc-carbon-measures-form-expert-panel-to-help-launch-a-global-carbon-accounting-framework/)
+      - The International Chamber of Commerce (ICC) and carbon accounting coalition Carbon Measures announced today the selection of an initial cohort of experts, aimed at supporting an initiative to develop a new global ledger-based carbon emissions accounting system, capable of tracking product-level emissions across the value chain.
+      - Deputy Secretary General of ICC, said: “The initial appointments to the panel bring an exceptional depth and range of experience – reflecting the diversity of expertise that will be required to unlock carbon accounting as a tool to accelerate decarbonization across the economy.”
+    
   - [20251215 - New York Releases Regulation Requiring Mandatory GHG Reporting for Large Emitters from 2027](https://www.esgtoday.com/new-york-releases-regulation-requiring-mandatory-ghg-reporting-for-large-emitters-from-2027/)
     
   - [20251210: GRI Releases New Draft Standards for Workforce Human Rights Disclosure Standards](https://www.esgtoday.com/gri-releases-new-draft-standards-for-workforce-human-rights-disclosure-standards)
@@ -74,6 +83,8 @@
 - [20250925]: [Watershed Launches AI-Powered Product Carbon Footprint Solution](https://www.esgtoday.com/watershed-launches-ai-powered-product-carbon-footprint-solution/): Watershed announced the launch of Watershed Product Footprints, a new AI-powered solution aimed at enabling companies to measure and address the carbon footprint of products, materials and processes. According to Watershed, the new solution comes as companies continue to face challenges in assessing and understanding their upstream purchasing emissions, which can account for 70% or more of a company’s total carbon footprint, with spend-based estimates often providing an inaccurate picture, and detailed carbon assessments remaining prohibitively expensive and slow to produce. In a post announcing the new product release, Watershed said: "For decades, companies have been forced to make sustainability and procurement decisions based on incomplete or inaccurate emissions data because existing approaches simply don’t work at scale. Product Footprints demonstrates how AI, when encoded with sustainability intelligence, can transform corporate sustainability.”
   
 # Sustainable Finance, Sustainable Investing
+
+- [2026: IFC: The Trends Shaping Jobs, Growth, and Private Investment](https://www.linkedin.com/pulse/2026-trends-shaping-jobs-growth-private-investment-ifclinkedin-o3aye) 
 
 - [20251222 - Guest Post: COP30 Moved Adaptation Goals to 2035. The Financial Risks Arrive Sooner](https://www.esgtoday.com/guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner/)
 
