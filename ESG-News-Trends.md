@@ -1,7 +1,14 @@
 
 # Surveys
 
-[20251212 - 95% of Business Leaders View Climate Transition as Source of Growth and Opportunity: HSBC Survey](https://www.esgtoday.com/95-of-business-leaders-view-climate-transition-as-source-of-growth-and-opportunity-hsbc-survey) 
+  - [20251212 - 95% of Business Leaders View Climate Transition as Source of Growth and Opportunity: HSBC Survey](https://www.esgtoday.com/95-of-business-leaders-view-climate-transition-as-source-of-growth-and-opportunity-hsbc-survey)
+
+  - [20250414 - Forbes: Sustainability stays central to C-suites vision amid global unrest but leaders struggle to prove its ROI](https://www.forbes.com/sites/forbes-research/2025/04/14/new-survey-sustainability-stays-central-to-c-suites-vision-amid-global-unrest-but-leaders-struggle-to-prove-its-roi/)
+
+# Blogs 
+
+  - [20260120 - AI and the Evolving Role of the Chief Sustainability Officer: Guest Post](https://www.esgtoday.com/ai-and-the-evolving-role-of-the-chief-sustainability-officer-guest-post/) 
+      - AI can accelerate progress at every stage, provided it is applied strategically (i.e. At the compliance stage, In the risk –mitigation stage, At the market-anticipation and champion stages).
 
 # Governments and Regulators and Standards
 
