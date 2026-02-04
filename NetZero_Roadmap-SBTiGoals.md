@@ -12,7 +12,15 @@
     - eBay has also embedded sustainability requirements into carrier contracts including encouraging investments into cleaner technologies such as zero-emission vehicles, route optimization, renewable energy and sustainable packaging. In some cases, the company is also pursuing direct co-investment and pilot programs with partners to accelerate innovation.
     - eBay’s Chief Sustainability Officer, said: “We believe the future of commerce and the future of our planet are deeply connected. Building on our recommerce legacy, our Climate Transition Plan showcases how we will achieve net zero emissions by 2045 while supporting a low-carbon economy. It reflects eBay’s long-standing commitment to climate resiliency, creating enduring value for our customers and community.”
 
-
+- [20260105 - Top 3 Carbon Capture Leaders to Drive the Net-Zero Race in 2026](https://carboncredits.com/top-3-carbon-capture-leaders-to-drive-the-net-zero-race-in-2026/)
+    - Climeworks(Switzerland) , Carbon Engineering(Canada), and SLB Capturi (Denmark) define the carbon capture landscape in 2026.
+    - They are building carbon removal portfolio that includes:
+        - Direct Air Capture with geological storage
+        - Bioenergy with carbon capture and storage (BECCS)
+        - Biochar
+        - Enhanced rock weathering (ERW)
+        - Afforestation and reforestation
+        - Mangrove restoration
 
 # From Countries
 
