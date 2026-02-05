@@ -7,6 +7,10 @@
 
 # Blogs 
 
+  - [20260202 - Managing Sustainability Data in 2026: From Fragmented to Strategic](https://www.esgtoday.com/managing-sustainability-data-in-2026-from-fragmented-to-strategic/)
+      - The principles of good sustainability data management in 2026 have been characterized by three fundamental shifts: **from manual to automated, from siloed to integrated, and from reactive to predictive.**
+      - AI and automation have become non-negotiable. Leading companies have deployed AI and machine learning solutions that rapidly capture, validate, and analyze sustainability data across their businesses.
+
   - [20260120 - AI and the Evolving Role of the Chief Sustainability Officer: Guest Post](https://www.esgtoday.com/ai-and-the-evolving-role-of-the-chief-sustainability-officer-guest-post/) 
       - AI can accelerate progress at every stage, provided it is applied strategically (i.e. At the compliance stage, In the risk –mitigation stage, At the market-anticipation and champion stages).
 
