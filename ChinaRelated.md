@@ -11,7 +11,11 @@ This article examines the emerging ecosystem of ESG (Environmental, Social, and 
 
 # News, Articles, Publications
 
-[20250925] - [China Moves Toward Carbon Cap: Xi Jinping Pledges 7–10% Emissions Cut by 2035](https://carboncredits.com/china-moves-toward-carbon-cap-xi-jinping-pledges-7-10-emissions-cut-by-2035/) Report includes Trends of 
+[20260205 - Making the Agri-Food Transition Investable: Insights from China](https://www.linkedin.com/pulse/making-agri-food-transition-investable-insights-from-china-q43pc/)
+  - Globally, agri-food systems account for over one-third of greenhouse gas emissions and are among the sectors most exposed to climate risk. For most agri-food companies, over 90% of emissions sit beyond their own operations, making value-chain coordination and the role of finance central to any scalable transition.
+  - Set in China, the discussion highlighted where policy direction, technology readiness and financial tools are beginning to align, offering reference points for markets seeking greater certainty in agri-food transition.
+
+[20250925 China Moves Toward Carbon Cap: Xi Jinping Pledges 7–10% Emissions Cut by 2035](https://carboncredits.com/china-moves-toward-carbon-cap-xi-jinping-pledges-7-10-emissions-cut-by-2035/) Report includes Trends of 
 
   - China’s emissions report as on March'2025
 
