@@ -8,6 +8,10 @@
 
 # From Regulatory Bodies
 
+- [20260204 - Dutch Markets Regulator Tells Banks and Investors to Improve Sustainability Claims](https://www.esgtoday.com/dutch-markets-regulator-tells-banks-and-investors-to-improve-sustainability-claims/)
+  - Netherlands-based markets regulator the Dutch Authority for the Financial Markets (AFM) warned financial firms that it plans to pay extra attention on sustainability claims in its supervision activities this year, following a study that indicated that “claims still need improvement.”
+  - The study, conducted in 2024 and 2025, followed the release in 2023 by the AFM of its Guidelines on Sustainability Claims, outlining expectations for banks, insurers, investment firms and pension providers to make correct, clear and non-misleading sustainability claims.
+
 - [20260119: ECB to Intensify Monitoring of Physical Climate Risk Impact, Transition Plans for Banks](https://www.esgtoday.com/ecb-to-intensify-monitoring-of-physical-climate-risk-impact-transition-plans-for-banks/)
   - The European Central Bank (ECB) revealed a series of new priority areas to advance its work on embedding climate and nature-related risks into its activities, including plans to intensity its work in areas including assessing banks’ green economy transition plans and on analyzing their capabilities to address risks related to the growing physical impacts of climate change.
   - Under the green transition priority area the ECB said that it aims to focus on aspects including assessing banks’ prudential transition plans, further analysis on energy and fiscal costs, and exploring how climate-related considerations could be further incorporated into the operational framework.
