@@ -1,6 +1,9 @@
 
 # SBTi based Targets
 
+- [20250206 - SBTi Releases New Draft Net Zero Target-Setting Standard for Automotive Sector](https://www.esgtoday.com/sbti-releases-new-draft-net-zero-target-setting-standard-for-automotive-sector/)
+    - The Science Based Targets initiative (SBTi) announced the release of an updated draft of its new Automotive Sector Net-Zero Standard, aimed at providing a framework for automakers and auto parts manufacturers looking to science-based net zero-aligned goals.
+  
 - [20260122 - SBTi Passes 10,000 Companies with Validated Science-Based Climate Targets](https://www.esgtoday.com/sbti-passes-10000-companies-with-validated-science-based-climate-targets/)
     - According to the SBTi, companies with validated targets now represent more than 40% of global market capitalization and span more than 90 countries, across a broad range of sectors and company sizes.
     - The organization noted that growth in the number of Asian companies with validated targets has been particularly strong, with Japan now having the highest number of validated companies at over 2,000, followed by the UK, U.S. and China, although it noted that overall, European-headquartered companies still make up a substantial share of the total.
