@@ -27,6 +27,8 @@
 
 ## European Union Related
 
+- [20260210 - EU Lawmakers Approve Target to Reduce Emissions 90% by 2040](https://www.esgtoday.com/eu-lawmakers-approve-target-to-reduce-emissions-90-by-2040/)
+  
 - [20260115 - ESMA Guides Investment Firms on Expectations to Avoid Greenwashing in ESG Strategies](https://www.esgtoday.com/esma-releases-guide-on-expectations-to-avoid-greenwashing-in-esg-investment-strategies)
 - 
 ### ESRS (European Sustainability Reporting Standard)
