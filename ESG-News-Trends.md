@@ -10,6 +10,8 @@
 
 # Blogs 
 
+  - [20260211 - Reframing Climate Risk in the Supply Chain](https://www.esgtoday.com/reframing-climate-risk-in-the-supply-chain/) - Guest post by: Alicia Heavisides, Head of ESG, Product Management at Dun & Bradstreet 
+    
   - [20260202 - Managing Sustainability Data in 2026: From Fragmented to Strategic](https://www.esgtoday.com/managing-sustainability-data-in-2026-from-fragmented-to-strategic/)
       - The principles of good sustainability data management in 2026 have been characterized by three fundamental shifts: **from manual to automated, from siloed to integrated, and from reactive to predictive.**
       - AI and automation have become non-negotiable. Leading companies have deployed AI and machine learning solutions that rapidly capture, validate, and analyze sustainability data across their businesses.
