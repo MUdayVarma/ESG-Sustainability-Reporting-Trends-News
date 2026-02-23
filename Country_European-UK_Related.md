@@ -6,8 +6,10 @@
         - Industrial decarbonization, however, remains a different story. Industry makes up a fifth of Europe’s emissions, yet investment in modernising factories, electrifying heat, recovering waste energy or replacing fossil fuels is far behind where it needs to be.
         - Transforming industrial energy systems is fundamentally more complex than building a wind farm or solar park. It happens inside live production environments, depends on operational behaviour and often requires several technologies to work together. No two sites look alike, which means no two projects look alike either.
 
-# From Regulatory Bodies
+# ESG Reporting / From Regulatory Bodies
 
+- [20260218 - ECB Warns Simplified EU Sustainability Reporting Standards “Significantly Reduce Transparency for Investors"](https://www.esgtoday.com/ecb-warns-simplified-eu-sustainability-reporting-standards-significantly-reduce-transparency-for-investors/)
+  
 - [20260204 - Dutch Markets Regulator Tells Banks and Investors to Improve Sustainability Claims](https://www.esgtoday.com/dutch-markets-regulator-tells-banks-and-investors-to-improve-sustainability-claims/)
   - Netherlands-based markets regulator the Dutch Authority for the Financial Markets (AFM) warned financial firms that it plans to pay extra attention on sustainability claims in its supervision activities this year, following a study that indicated that “claims still need improvement.”
   - The study, conducted in 2024 and 2025, followed the release in 2023 by the AFM of its Guidelines on Sustainability Claims, outlining expectations for banks, insurers, investment firms and pension providers to make correct, clear and non-misleading sustainability claims.
