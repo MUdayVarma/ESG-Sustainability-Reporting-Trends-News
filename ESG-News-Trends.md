@@ -90,6 +90,8 @@
     
 # ESG Services and Tools
 
+- [20260219 - EY Launches Framework to Help Companies Embed Sustainability Across the Enterprise](https://www.esgtoday.com/ey-launches-framework-to-help-companies-embed-sustainability-across-the-enterprise)
+  
 - [20251209 - Guest Post – 2026: The Year AI and Sustainability Become a Unified Performance Engine](https://www.esgtoday.com/guest-post-2026-the-year-ai-and-sustainability-become-a-unified-performance-engine/)
   
 - [20251110: Carbon Direct Acquires Carbon Project MRV Platform Pachama](https://www.esgtoday.com/carbon-direct-acquires-carbon-project-mrv-platform-pachama/)
