@@ -6,6 +6,8 @@
 
 # Advisory Services
 
+- [20260219 - EY Launches Framework to Help Companies Embed Sustainability Across the Enterprise](https://www.esgtoday.com/ey-launches-framework-to-help-companies-embed-sustainability-across-the-enterprise/)
+  
 [20251023 - Schneider Electric Launches Global Consulting Practice to Advise on Sustainability, Energy, Technology](https://www.esgtoday.com/schneider-electric-launches-global-consulting-practice-to-advise-on-sustainability-energy-technology/) The new practice brings together several of Schneider Electric’s areas of expertise to offer enterprise-wide initiatives and site-level operations across four core domains, including
   -  “Sustainable Business & Industrial Transformation,” to guide transition planning through areas including
       -  digital transformation,
