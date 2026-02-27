@@ -1,4 +1,10 @@
-BRSR Format
+
+
+# REGULATORY Bodies
+
+- [20260223 - India Launches Review of ESG Ratings Provider Regulations](https://www.esgtoday.com/india-launches-review-of-esg-ratings-provider-regulations)
+
+# BRSR Frameowrk
 
 ### SECTION A: GENERAL DISCLOSURES 
 
