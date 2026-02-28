@@ -24,6 +24,8 @@
 
 ## UK Related
 
+- 20260226 - UK Releases Finalized Sustainability Reporting Standards](https://www.esgtoday.com/uk-releases-finalized-sustainability-reporting-standards/)
+  
 - [20260202 - UK’s FCA Proposes IFRS-Aligned Sustainability Reporting Requirements for Companies Beginning 2027](https://www.esgtoday.com/uks-fca-proposes-ifrs-aligned-sustainability-reporting-requirements-for-companies-beginning-2027/)
   - The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial markets, announced the launch of a consultation into a new proposal to significantly revise and expand sustainability reporting requirements for listed companies, including a new requirement for companies to implement the UK’s upcoming IFRS-based Sustainability Reporting Standards (UK SRS) in their disclosures. The new proposed rules would come into force at the beginning of 2027
 
