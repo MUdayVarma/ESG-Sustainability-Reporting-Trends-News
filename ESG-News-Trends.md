@@ -102,6 +102,8 @@
   
 # Sustainable Finance, Sustainable Investing
 
+- [202602 - Four steps to quantify financial value at risk from sustainability](https://www.uprightproject.com/blog/p/how-to-quantify-sustainability-risks-in-financial-terms)
+
 - [2026: IFC: The Trends Shaping Jobs, Growth, and Private Investment](https://www.linkedin.com/pulse/2026-trends-shaping-jobs-growth-private-investment-ifclinkedin-o3aye) 
 
 - [20251222 - Guest Post: COP30 Moved Adaptation Goals to 2035. The Financial Risks Arrive Sooner](https://www.esgtoday.com/guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner/)
