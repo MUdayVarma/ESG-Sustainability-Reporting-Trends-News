@@ -1,4 +1,8 @@
 
+# STANDARDS
+
+  - [20260201 - What Are IFRS S1 and S2? Objectives, Principles, and Role in Sustainability Reporting](https://www.orennow.com/blog/understanding-ifrs-one-and-two)
+    
 # Surveys
 
   - [20260205 - 38% of Companies’ Emissions Trajectories Are Aligned with Global Climate Goals: MSCI](https://www.esgtoday.com/only-38-of-companies-currently-on-track-with-global-climate-goals-msci/)
