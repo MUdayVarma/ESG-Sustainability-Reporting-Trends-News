@@ -8,6 +8,8 @@
 
 # ESG Reporting / From Regulatory Bodies
 
+- [20260305 - EU States Approve Target to Reduce Emissions 90% by 2040](https://www.esgtoday.com/eu-states-give-final-approval-to-target-to-reduce-emissions-90-by-2040/)
+  
 - [20260218 - ECB Warns Simplified EU Sustainability Reporting Standards “Significantly Reduce Transparency for Investors"](https://www.esgtoday.com/ecb-warns-simplified-eu-sustainability-reporting-standards-significantly-reduce-transparency-for-investors/)
   
 - [20260204 - Dutch Markets Regulator Tells Banks and Investors to Improve Sustainability Claims](https://www.esgtoday.com/dutch-markets-regulator-tells-banks-and-investors-to-improve-sustainability-claims/)
