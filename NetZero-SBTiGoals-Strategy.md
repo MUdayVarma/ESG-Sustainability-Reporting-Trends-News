@@ -15,6 +15,6 @@
     - eBay has also embedded sustainability requirements into carrier contracts including encouraging investments into cleaner technologies such as zero-emission vehicles, route optimization, renewable energy and sustainable packaging. In some cases, the company is also pursuing direct co-investment and pilot programs with partners to accelerate innovation.
     - eBay’s Chief Sustainability Officer, said: “We believe the future of commerce and the future of our planet are deeply connected. Building on our recommerce legacy, our Climate Transition Plan showcases how we will achieve net zero emissions by 2045 while supporting a low-carbon economy. It reflects eBay’s long-standing commitment to climate resiliency, creating enduring value for our customers and community.”
 
-# Supply Chain 
+# Strategies 
 
-- [20260225 - Why Supply Chain Inefficiency is the Ultimate ESG Failure](https://www.esgtoday.com/why-supply-chain-inefficiency-is-the-ultimate-esg-failure/)
+- [20260311 - EU’s Von der Leyen Says Turning Away from Nuclear Energy was a “Strategic Mistake”](https://www.esgtoday.com/eus-von-der-leyen-says-turning-away-from-nuclear-energy-was-a-strategic-mistake/)
