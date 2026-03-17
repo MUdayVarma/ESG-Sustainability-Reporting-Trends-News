@@ -10,6 +10,8 @@
    
 # NetZero - Roadmaps and Commitments from Companies
 
+- [20260309 - Net Zero Asset Owner Alliance Introduces “Transition Targets” in Updated Target-Setting Protocol](https://www.esgtoday.com/net-zero-asset-owner-alliance-introduces-transition-targets-in-new-target-setting-protocol/) 
+  
 - [20260120 - eBay Releases Plan to Reach Net Zero Across Value Chain by 2045](https://www.esgtoday.com/ebay-releases-plan-to-reach-net-zero-across-value-chain-by-2045/)
     - eBay announced the publication of its first Climate Transition Plan, outlining how the global online marketplace aims to cut greenhouse gas emissions across its operations and value chain by 2045, in addition to its efforts to advance sustainable commerce. In addition to the 2045 net zero target, key climate goals in the plan include a 90% reduction in emissions across the value chain by 2045, 90% Scope 1 and 2 emissions reduction by 2030, and 27.5% Scope 3 emissions from downstream transportation and distribution by 2030. The company also aims to maintain 100% renewable electricity, which it first achieved in 2024.
     - eBay has also embedded sustainability requirements into carrier contracts including encouraging investments into cleaner technologies such as zero-emission vehicles, route optimization, renewable energy and sustainable packaging. In some cases, the company is also pursuing direct co-investment and pilot programs with partners to accelerate innovation.
