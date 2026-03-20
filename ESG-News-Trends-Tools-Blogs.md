@@ -94,6 +94,8 @@
     
 # ESG Services and Tools
 
+- [20260309 - LSEG (London Stock Exchange Group) Launches New Sustainability Ratings and Analytics Solutions Suite](https://www.esgtoday.com/lseg-launches-new-sustainability-ratings-and-data-solutions-suite/)
+  
 - [20260219 - EY Launches Framework to Help Companies Embed Sustainability Across the Enterprise](https://www.esgtoday.com/ey-launches-framework-to-help-companies-embed-sustainability-across-the-enterprise)
   
 - [20251209 - Guest Post – 2026: The Year AI and Sustainability Become a Unified Performance Engine](https://www.esgtoday.com/guest-post-2026-the-year-ai-and-sustainability-become-a-unified-performance-engine/)
