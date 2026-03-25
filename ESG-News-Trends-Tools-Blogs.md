@@ -14,6 +14,8 @@
 
 # Blogs 
 
+  - [20260323 - The Language of Climate Tech is Changing, and it Says a Lot About Where Sustainability is Headed](https://www.esgtoday.com/the-language-of-climate-tech-is-changing-and-it-says-a-lot-about-where-sustainability-is-headed)
+    
   - [20260211 - Reframing Climate Risk in the Supply Chain](https://www.esgtoday.com/reframing-climate-risk-in-the-supply-chain/) - Guest post by: Alicia Heavisides, Head of ESG, Product Management at Dun & Bradstreet 
     
   - [20260202 - Managing Sustainability Data in 2026: From Fragmented to Strategic](https://www.esgtoday.com/managing-sustainability-data-in-2026-from-fragmented-to-strategic/)
