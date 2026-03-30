@@ -1,6 +1,8 @@
 
 # Supply Chain 
 
+- [20260330 - The Drivers for Supply Chain Decarbonization are Changing… But What Matters is Impact](https://www.esgtoday.com/the-drivers-for-supply-chain-decarbonization-are-changing-but-what-matters-is-impact/)
+  
 - [20260318 - Turning Climate Ambition into Action: Accelerating Supply Chain Decarbonization - John Powers, VP, Global Cleantech and Renewables, Schneider Electric](https://www.esgtoday.com/turning-climate-ambition-into-action-accelerating-supply-chain-decarbonization/)
 - 
         - Why Supply Chain Decarbonization Matters
