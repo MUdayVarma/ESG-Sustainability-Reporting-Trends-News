@@ -2,6 +2,8 @@
 
 # REGULATORY Bodies
 
+- [20260327 - India Approves Cautious 2035 Climate, Clean Energy Goals](https://www.esgtoday.com/india-approves-cautious-2035-climate-clean-energy-goals/)
+  
 - [20260223 - India Launches Review of ESG Ratings Provider Regulations](https://www.esgtoday.com/india-launches-review-of-esg-ratings-provider-regulations)
 
 # BRSR Frameowrk
