@@ -2,6 +2,8 @@
 
 # Decarbonization 
 
+- [20260320 - Germany’s €8B Climate Push: Can Europe’s Largest Economy Cut Fossil Fuel Use Fast Enough](https://carboncredits.com/germanys-e8b-climate-push-can-europes-largest-economy-cut-fossil-fuel-use-fast-enough/)
+  
 - [20260128 - The Missing Middle of the Energy Transition: Financing Industrial Decarbonization](https://www.esgtoday.com/the-missing-middle-of-the-energy-transition-financing-industrial-decarbonization/) 
         - Industrial decarbonization, however, remains a different story. Industry makes up a fifth of Europe’s emissions, yet investment in modernising factories, electrifying heat, recovering waste energy or replacing fossil fuels is far behind where it needs to be.
         - Transforming industrial energy systems is fundamentally more complex than building a wind farm or solar park. It happens inside live production environments, depends on operational behaviour and often requires several technologies to work together. No two sites look alike, which means no two projects look alike either.
