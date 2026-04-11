@@ -2,6 +2,8 @@
 
 # Decarbonization 
 
+- [20260409 - A specialized guarantee facility for industrial decarbonization](https://illuminem.com/illuminemvoices/a-specialised-guarantee-facility-for-industrial-decarbonisation)
+  
 - [20260320 - Germany’s €8B Climate Push: Can Europe’s Largest Economy Cut Fossil Fuel Use Fast Enough](https://carboncredits.com/germanys-e8b-climate-push-can-europes-largest-economy-cut-fossil-fuel-use-fast-enough/)
   
 - [20260128 - The Missing Middle of the Energy Transition: Financing Industrial Decarbonization](https://www.esgtoday.com/the-missing-middle-of-the-energy-transition-financing-industrial-decarbonization/) 
