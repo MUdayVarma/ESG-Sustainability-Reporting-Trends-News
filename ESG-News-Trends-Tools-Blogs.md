@@ -98,6 +98,8 @@
     
 # ESG Services and Tools
 
+- [20260331 - Novisto Acquires Carbon Accounting Software Provider Minimum](https://www.esgtoday.com/novisto-acquires-carbon-accounting-software-provider-minimum/)
+
 - [20260309 - LSEG (London Stock Exchange Group) Launches New Sustainability Ratings and Analytics Solutions Suite](https://www.esgtoday.com/lseg-launches-new-sustainability-ratings-and-data-solutions-suite/)
   
 - [20260219 - EY Launches Framework to Help Companies Embed Sustainability Across the Enterprise](https://www.esgtoday.com/ey-launches-framework-to-help-companies-embed-sustainability-across-the-enterprise)
