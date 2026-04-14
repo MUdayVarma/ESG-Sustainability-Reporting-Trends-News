@@ -39,6 +39,8 @@
 
 ## European Union Related
 
+- [20260407 - Switzerland Proposes New Sustainability Reporting, Due Diligence Law](https://www.esgtoday.com/switzerland-proposes-new-sustainability-reporting-due-diligence-law/)
+  
 - [20260320 - EU’s von der Leyen Pledges to Revise Carbon Pricing System, Introduce €30 Billion Cleantech Fund](https://www.esgtoday.com/eus-von-der-leyen-pledges-to-revise-carbon-pricing-system-introduce-e30-billion-cleantech-fund/) 
   
 - [20260210 - EU Lawmakers Approve Target to Reduce Emissions 90% by 2040](https://www.esgtoday.com/eu-lawmakers-approve-target-to-reduce-emissions-90-by-2040/)
