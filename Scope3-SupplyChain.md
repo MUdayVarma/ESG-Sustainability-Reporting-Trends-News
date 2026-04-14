@@ -17,4 +17,6 @@
 
 # Scope 3 
 
+- [20260409 - GHG Protocol Outlines Proposed Changes to Scope 3 Reporting Standard](https://www.esgtoday.com/ghg-protocol-outlines-proposed-changes-to-scope-3-reporting-standard/)
+  
 - [20260312 - Business sustainability ratings and solutions provider EcoVadis and climate solutions provider Watershed Partner to Provide Scope 3 Data Solutions to assess emissions across their supply chains](https://www.esgtoday.com/ecovadis-watershed-partner-to-provide-scope-3-data-solutions/) 
