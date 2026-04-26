@@ -1,6 +1,8 @@
 
 # STANDARDS
 
+  - [20260423 - ISSB Decides to Develop Non-Mandatory Nature-Related Reporting Requirements](https://www.esgtoday.com/issb-decides-to-develop-non-mandatory-nature-related-reporting-requirements/)
+    
   - [20260331 - IFRS Foundation publishes 2025 Annual Report—Fit for the future](https://www.ifrs.org/news-and-events/news/2026/03/ifrs-foundation-publishes-2025-annual-report-fit-for-the-future/)
     
   - [20260201 - What Are IFRS S1 and S2? Objectives, Principles, and Role in Sustainability Reporting](https://www.orennow.com/blog/understanding-ifrs-one-and-two)
