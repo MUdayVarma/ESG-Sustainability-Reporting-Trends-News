@@ -1,6 +1,14 @@
 
 # Terminologies & Rational
 
+## Products & Platforms
+
+- **[Measurabl]**
+
+  Manages ordinance filing end to end, from data validation through submission, ensuring accurate, on-time filings across thousands of buildings each year
+
+- 
+
 ## Standards
 
  - ISSB (International Sustainability Standards Board): Goal is to develop IFRS Sustainability Disclosure Standards to provide investors with information about companies’ sustainability risks and opportunities.
