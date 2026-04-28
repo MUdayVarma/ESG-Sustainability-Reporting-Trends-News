@@ -1,21 +1,4 @@
-
-# STANDARDS
-
-  - [20260423 - ISSB Decides to Develop Non-Mandatory Nature-Related Reporting Requirements](https://www.esgtoday.com/issb-decides-to-develop-non-mandatory-nature-related-reporting-requirements/)
     
-  - [20260331 - IFRS Foundation publishes 2025 Annual Report—Fit for the future](https://www.ifrs.org/news-and-events/news/2026/03/ifrs-foundation-publishes-2025-annual-report-fit-for-the-future/)
-    
-  - [20260201 - What Are IFRS S1 and S2? Objectives, Principles, and Role in Sustainability Reporting](https://www.orennow.com/blog/understanding-ifrs-one-and-two)
-    
-# Surveys
-
-  - [20260205 - 38% of Companies’ Emissions Trajectories Are Aligned with Global Climate Goals: MSCI](https://www.esgtoday.com/only-38-of-companies-currently-on-track-with-global-climate-goals-msci/)
-    - Less than 40% of listed companies globally currently have emissions trajectories aligned with the global climate goal of limiting temperature increase to under 2°C above preindustrial levels this century, although companies have continued to set climate targets over the past year, including a significant increase in companies with SBTi-approved emissions reduction goals, according to a new study released by investment data and research provider MSCI.
-      
-  - [20251212 - 95% of Business Leaders View Climate Transition as Source of Growth and Opportunity: HSBC Survey](https://www.esgtoday.com/95-of-business-leaders-view-climate-transition-as-source-of-growth-and-opportunity-hsbc-survey)
-
-  - [20250414 - Forbes: Sustainability stays central to C-suites vision amid global unrest but leaders struggle to prove its ROI](https://www.forbes.com/sites/forbes-research/2025/04/14/new-survey-sustainability-stays-central-to-c-suites-vision-amid-global-unrest-but-leaders-struggle-to-prove-its-roi/)
-
 # Blogs 
 
   - [20260323 - The Language of Climate Tech is Changing, and it Says a Lot About Where Sustainability is Headed](https://www.esgtoday.com/the-language-of-climate-tech-is-changing-and-it-says-a-lot-about-where-sustainability-is-headed)
@@ -28,6 +11,16 @@
 
   - [20260120 - AI and the Evolving Role of the Chief Sustainability Officer: Guest Post](https://www.esgtoday.com/ai-and-the-evolving-role-of-the-chief-sustainability-officer-guest-post/) 
       - AI can accelerate progress at every stage, provided it is applied strategically (i.e. At the compliance stage, In the risk –mitigation stage, At the market-anticipation and champion stages).
+
+# Surveys
+
+  - [20260205 - 38% of Companies’ Emissions Trajectories Are Aligned with Global Climate Goals: MSCI](https://www.esgtoday.com/only-38-of-companies-currently-on-track-with-global-climate-goals-msci/)
+    - Less than 40% of listed companies globally currently have emissions trajectories aligned with the global climate goal of limiting temperature increase to under 2°C above preindustrial levels this century, although companies have continued to set climate targets over the past year, including a significant increase in companies with SBTi-approved emissions reduction goals, according to a new study released by investment data and research provider MSCI.
+      
+  - [20251212 - 95% of Business Leaders View Climate Transition as Source of Growth and Opportunity: HSBC Survey](https://www.esgtoday.com/95-of-business-leaders-view-climate-transition-as-source-of-growth-and-opportunity-hsbc-survey)
+
+  - [20250414 - Forbes: Sustainability stays central to C-suites vision amid global unrest but leaders struggle to prove its ROI](https://www.forbes.com/sites/forbes-research/2025/04/14/new-survey-sustainability-stays-central-to-c-suites-vision-amid-global-unrest-but-leaders-struggle-to-prove-its-roi/)
+
 
 # Governments and Regulators and Standards
 
