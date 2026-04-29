@@ -1,3 +1,8 @@
+
+# News
+
+  - [20260427 - SpeedRead Sustainability #81: Weekly Highlights](https://www.linkedin.com/pulse/speedread-sustainability-81-weekly-highlights-antonio-vizcaya-abdo--gdbye/)
+
     
 # Blogs 
 
