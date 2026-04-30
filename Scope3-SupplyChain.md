@@ -1,6 +1,8 @@
 
 # Supply Chain 
 
+- [20260429 - 82% of Companies Maintaining or Accelerating Climate Goals, as Decarbonization Efforts Extend to Supply Chain: PwC](https://www.esgtoday.com/82-of-companies-maintaining-or-accelerating-climate-goals-as-decarbonization-efforts-extend-to-supply-chain-pwc/)
+
 - [20260422 - Climate Insurance Emerges as Key Tool for Coffee Supply Stability](https://www.weforum.org/stories/2026/04/how-the-coffee-industry-is-making-the-case-for-climate-insurance/)
   
 - [20260331 - The Future of Materials Systems: Cooperation Opportunities in a Multipolar World](https://www.weforum.org/publications/the-future-of-materials-systems-cooperation-opportunities-in-a-multipolar-world/)
