@@ -2,6 +2,8 @@
 
 # Decarbonization 
 
+- [20260505 - Germany Invests €5 Billion to Decarbonize Energy Intensive Industries](https://www.esgtoday.com/germany-invests-e5-billion-to-decarbonize-energy-intensive-industries/)
+  
 - [20260409 - A specialized guarantee facility for industrial decarbonization](https://illuminem.com/illuminemvoices/a-specialised-guarantee-facility-for-industrial-decarbonisation)
   
 - [20260320 - Germany’s €8B Climate Push: Can Europe’s Largest Economy Cut Fossil Fuel Use Fast Enough](https://carboncredits.com/germanys-e8b-climate-push-can-europes-largest-economy-cut-fossil-fuel-use-fast-enough/)
