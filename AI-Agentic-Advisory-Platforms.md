@@ -1,4 +1,8 @@
 
+# Agentic AI
+
+[20260505 - Persefoni Launches Agentic AI to Help Companies Analyze Carbon Footprint](https://www.esgtoday.com/persefoni-launches-agentic-ai-to-help-companies-analyze-carbon-footprint/)
+
 # Platforms and Tools
 [20260121 - 'Lune' (supply chain CO2 intelligence and carbon solutions provider) Merges with 'gryn' (Scope 3 visibility platform) to Create Supply Chain Carbon Data Platform for Shipping and Logistics](https://www.esgtoday.com/lune-merges-with-gryn-to-create-supply-chain-carbon-data-platform-for-shipping-and-logistics/)
   - 'gryn' provides software that allows shippers to more easily engage with their logistics providers and consolidate shipment-level data across complex supply chains to support emissions reporting.
