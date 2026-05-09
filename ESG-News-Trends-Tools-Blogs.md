@@ -98,6 +98,8 @@
     
 # ESG Services and Tools
 
+- [20260504 - IBM Launches GHG Emissions Calculation Solution for Spreadsheet Users](https://www.esgtoday.com/ibm-launches-ghg-emissions-calculation-solution-for-spreadsheet-users/)
+
 - [20260409 - SLR Acquires Climate Analytics Platforms Planetrics and ClimSystems](https://www.esgtoday.com/slr-acquires-climate-analytics-platforms-planetrics-and-climsystems)
   
 - [20260331 - Novisto Acquires Carbon Accounting Software Provider Minimum](https://www.esgtoday.com/novisto-acquires-carbon-accounting-software-provider-minimum/)
