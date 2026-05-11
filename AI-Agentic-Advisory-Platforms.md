@@ -1,6 +1,8 @@
 
 # Agentic AI
 
+[20260507 - AI Governance Is Becoming a Supply Chain Risk — Not Just an ESG Issue](https://www.esgtoday.com/ai-governance-is-becoming-a-supply-chain-risk-not-just-an-esg-issue/)
+
 [20260505 - Persefoni Launches Agentic AI to Help Companies Analyze Carbon Footprint](https://www.esgtoday.com/persefoni-launches-agentic-ai-to-help-companies-analyze-carbon-footprint/)
 
 # Platforms and Tools
