@@ -1,6 +1,10 @@
 
 # Supply Chain 
 
+- [20260507]
+  - [Sandoz Unveils New Operational, Supply Chain Climate Goals](https://www.esgtoday.com/sandoz-unveils-new-operational-supply-chain-climate-goals/)
+  - [PepsiCo to Deploy Green Hydrogen-Based Fertilizer to Decarbonize European Food Supply Chain](https://www.esgtoday.com/pepsico-to-deploy-green-hydrogen-based-fertilizer-to-decarbonize-european-food-supply-chain/)
+  
 - [20260429 - 82% of Companies Maintaining or Accelerating Climate Goals, as Decarbonization Efforts Extend to Supply Chain: PwC](https://www.esgtoday.com/82-of-companies-maintaining-or-accelerating-climate-goals-as-decarbonization-efforts-extend-to-supply-chain-pwc/)
 
 - [20260422 - Climate Insurance Emerges as Key Tool for Coffee Supply Stability](https://www.weforum.org/stories/2026/04/how-the-coffee-industry-is-making-the-case-for-climate-insurance/)
