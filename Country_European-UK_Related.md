@@ -2,6 +2,8 @@
 
 # Decarbonization 
 
+  - [20260512 - EU Commission Proposes Adding €4 Billion in Carbon Allowances to Industry in ETS Update](https://www.esgtoday.com/eu-commission-proposes-ets-update-adding-e4-billion-in-allowances-to-industry/)
+  
 - [20260505 - Germany Invests €5 Billion to Decarbonize Energy Intensive Industries](https://www.esgtoday.com/germany-invests-e5-billion-to-decarbonize-energy-intensive-industries/)
   
 - [20260409 - A specialized guarantee facility for industrial decarbonization](https://illuminem.com/illuminemvoices/a-specialised-guarantee-facility-for-industrial-decarbonisation)
