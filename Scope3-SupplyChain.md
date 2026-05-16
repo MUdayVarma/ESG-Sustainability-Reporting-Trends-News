@@ -1,6 +1,7 @@
 
 # Supply Chain 
 
+- [20260514 - Bureau Veritas Launches New Supply Chain Emissions Engagement Solution](https://www.esgtoday.com/bureau-veritas-launches-new-supply-chain-emissions-engagement-solution/)
 - [20260507]
   - [Sandoz Unveils New Operational, Supply Chain Climate Goals](https://www.esgtoday.com/sandoz-unveils-new-operational-supply-chain-climate-goals/)
   - [PepsiCo to Deploy Green Hydrogen-Based Fertilizer to Decarbonize European Food Supply Chain](https://www.esgtoday.com/pepsico-to-deploy-green-hydrogen-based-fertilizer-to-decarbonize-european-food-supply-chain/)
