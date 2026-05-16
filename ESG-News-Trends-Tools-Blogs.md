@@ -19,6 +19,8 @@
 
 # Surveys
 
+  - [20260514 - Companies Anticipating $900 Billion Losses from Extreme Weather: CDP Report](https://www.esgtoday.com/companies-anticipating-900-billion-losses-from-extreme-weather-cdp-report/)
+    
   - [20260205 - 38% of Companies’ Emissions Trajectories Are Aligned with Global Climate Goals: MSCI](https://www.esgtoday.com/only-38-of-companies-currently-on-track-with-global-climate-goals-msci/)
     - Less than 40% of listed companies globally currently have emissions trajectories aligned with the global climate goal of limiting temperature increase to under 2°C above preindustrial levels this century, although companies have continued to set climate targets over the past year, including a significant increase in companies with SBTi-approved emissions reduction goals, according to a new study released by investment data and research provider MSCI.
       
