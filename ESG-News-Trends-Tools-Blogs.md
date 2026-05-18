@@ -100,6 +100,8 @@
     
 # ESG Services and Tools
 
+- [20260514 - UL Solutions Launches Product Carbon Footprint Calculation (PCF) Solution](https://www.esgtoday.com/ul-solutions-launches-solution-to-enable-companies-to-calculate-product-carbon-footprints-from-supplier-data/)
+
 - [20260504 - IBM Launches GHG Emissions Calculation Solution for Spreadsheet Users](https://www.esgtoday.com/ibm-launches-ghg-emissions-calculation-solution-for-spreadsheet-users/)
 
 - [20260409 - SLR Acquires Climate Analytics Platforms Planetrics and ClimSystems](https://www.esgtoday.com/slr-acquires-climate-analytics-platforms-planetrics-and-climsystems)
