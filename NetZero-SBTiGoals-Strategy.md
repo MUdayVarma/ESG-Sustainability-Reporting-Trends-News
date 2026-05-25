@@ -1,6 +1,8 @@
 
 # SBTi based Targets
 
+- [20260521 - SBTi Broadens Focus from Climate Target Setting to Implementation](https://www.esgtoday.com/sbti-broadens-focus-from-climate-target-setting-to-implementation/)
+  
 - [20250206 - SBTi Releases New Draft Net Zero Target-Setting Standard for Automotive Sector](https://www.esgtoday.com/sbti-releases-new-draft-net-zero-target-setting-standard-for-automotive-sector/)
     - The Science Based Targets initiative (SBTi) announced the release of an updated draft of its new Automotive Sector Net-Zero Standard, aimed at providing a framework for automakers and auto parts manufacturers looking to science-based net zero-aligned goals.
   
