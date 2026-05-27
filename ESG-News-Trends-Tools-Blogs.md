@@ -1,6 +1,10 @@
 
 # News
 
+  - [20260518 - SpeedRead Sustainability #84: Weekly Highlights](https://www.linkedin.com/pulse/speedread-sustainability-84-weekly-highlights-antonio-vizcaya-abdo--xuyre/)
+    
+  - [20260504 - SpeedRead Sustainability #82: Weekly Highlights](https://www.linkedin.com/pulse/speedread-sustainability-82-weekly-highlights-antonio-vizcaya-abdo--vhnee/)
+    
   - [20260427 - SpeedRead Sustainability #81: Weekly Highlights](https://www.linkedin.com/pulse/speedread-sustainability-81-weekly-highlights-antonio-vizcaya-abdo--gdbye/)
 
     
