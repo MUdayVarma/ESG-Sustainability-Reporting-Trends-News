@@ -1,6 +1,8 @@
 
 # Supply Chain 
 
+- [20260527 - McDonald’s to Miss 2030 Value Chain Decarbonization Goal, Remains Committed to Net Zero by 2050](https://www.esgtoday.com/mcdonalds-to-miss-2030-value-chain-decarbonization-goal-remains-committed-to-net-zero-by-2050/)
+  
 - [20260514 - Bureau Veritas Launches New Supply Chain Emissions Engagement Solution](https://www.esgtoday.com/bureau-veritas-launches-new-supply-chain-emissions-engagement-solution/)
 - [20260507]
   - [Sandoz Unveils New Operational, Supply Chain Climate Goals](https://www.esgtoday.com/sandoz-unveils-new-operational-supply-chain-climate-goals/)
