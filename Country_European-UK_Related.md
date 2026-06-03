@@ -43,6 +43,8 @@
 
 ## European Union Related
 
+- [20260602 - EU Commission Warns 20 Member States Over Failure to Implement Anti-Greenwashing Rules](https://www.esgtoday.com/eu-commission-warns-20-member-states-over-failure-to-implement-anti-greenwashing-rules/)
+  
 - [20260407 - Switzerland Proposes New Sustainability Reporting, Due Diligence Law](https://www.esgtoday.com/switzerland-proposes-new-sustainability-reporting-due-diligence-law/)
   
 - [20260320 - EU’s von der Leyen Pledges to Revise Carbon Pricing System, Introduce €30 Billion Cleantech Fund](https://www.esgtoday.com/eus-von-der-leyen-pledges-to-revise-carbon-pricing-system-introduce-e30-billion-cleantech-fund/) 
