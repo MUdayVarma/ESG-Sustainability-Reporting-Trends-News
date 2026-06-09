@@ -2,6 +2,8 @@
 
 # ESG Reporting / Government
 
+  - [20260604 - U.S. States Sue Trump Administration Over “Sham Deal” Paying TotalEnergies $1 Billion to End U.S. Offshore Wind Projects](https://www.esgtoday.com/u-s-states-sue-trump-administration-over-sham-deal-paying-totalenergies-1-billion-to-end-u-s-offshore-wind-projects/)
+    
   - [20260528 - California’s SB 253 Just Made Your Carbon Data a CFO Problem](https://www.esgtoday.com/californias-sb-253-just-made-your-carbon-data-a-cfo-problem/)
 
   - [20260217: New York Lawmakers Pass Bill Mandating GHG Disclosure by Large Companies](https://www.esgtoday.com/new-york-lawmakers-pass-bill-mandating-ghg-disclosure-by-large-companies/)
