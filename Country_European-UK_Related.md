@@ -43,6 +43,8 @@
 
 ## European Union Related
 
+- [20260604 - NBIM Calls on EU to Allow Companies to Meet ESRS and ISSB Requirements in a Single Report](https://www.esgtoday.com/nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report)
+  
 - [20260602 - EU Commission Warns 20 Member States Over Failure to Implement Anti-Greenwashing Rules](https://www.esgtoday.com/eu-commission-warns-20-member-states-over-failure-to-implement-anti-greenwashing-rules/)
   
 - [20260407 - Switzerland Proposes New Sustainability Reporting, Due Diligence Law](https://www.esgtoday.com/switzerland-proposes-new-sustainability-reporting-due-diligence-law/)
