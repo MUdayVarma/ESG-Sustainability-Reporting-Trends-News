@@ -104,6 +104,10 @@
     
 # ESG Services and Tools
 
+- [20260604 - Sweep, HowGood Partner on Product Carbon Footprint Solutions for Food and Ag Companies](https://www.esgtoday.com/sweep-howgood-partner-on-product-carbon-footprint-solutions-for-food-and-ag-companies/)
+
+- [20260601 - Eurazeo’s Impact Buyout Fund Acquires Circular Economy Platform T1A](https://www.esgtoday.com/eurazeos-impact-buyout-fund-acquires-circular-economy-platform-t1a/)
+  
 - [20260520 - Datamaran Launches New Tools to Support CSRD, ISSB Compliance, Governance](https://www.esgtoday.com/datamaran-launches-new-tools-to-support-csrd-issb-compliance-governance/)
   
 - [20260514 - UL Solutions Launches Product Carbon Footprint Calculation (PCF) Solution](https://www.esgtoday.com/ul-solutions-launches-solution-to-enable-companies-to-calculate-product-carbon-footprints-from-supplier-data/)
