@@ -1,6 +1,8 @@
 
 # SBTi based Targets
 
+- [20260611 - SBTi Releases Finalized New Corporate Net Zero Standard](https://www.esgtoday.com/sbti-releases-finalized-new-corporate-net-zero-standard/)
+  
 - [20260521 - SBTi Broadens Focus from Climate Target Setting to Implementation](https://www.esgtoday.com/sbti-broadens-focus-from-climate-target-setting-to-implementation/)
   
 - [20250206 - SBTi Releases New Draft Net Zero Target-Setting Standard for Automotive Sector](https://www.esgtoday.com/sbti-releases-new-draft-net-zero-target-setting-standard-for-automotive-sector/)
