@@ -83,6 +83,8 @@
 
 # ESG Reporting
 
+  - [20260609 - CDP Adds New Ocean Category to Sustainability Reporting Platform](https://www.esgtoday.com/cdp-adds-new-ocean-category-to-sustainability-reporting-platform/)
+
   - [20260119 - ICC, Carbon Measures Form Expert Panel to Launch a Global Carbon Accounting Framework](https://www.esgtoday.com/icc-carbon-measures-form-expert-panel-to-help-launch-a-global-carbon-accounting-framework/)
       - The International Chamber of Commerce (ICC) and carbon accounting coalition Carbon Measures announced today the selection of an initial cohort of experts, aimed at supporting an initiative to develop a new global ledger-based carbon emissions accounting system, capable of tracking product-level emissions across the value chain.
       - Deputy Secretary General of ICC, said: “The initial appointments to the panel bring an exceptional depth and range of experience – reflecting the diversity of expertise that will be required to unlock carbon accounting as a tool to accelerate decarbonization across the economy.”
