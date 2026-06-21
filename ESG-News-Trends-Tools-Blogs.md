@@ -106,6 +106,8 @@
     
 # ESG Services and Tools
 
+- [20260616 - Upright Launches New AI Model to Quantify Companies’ Sustainability Impacts, Risks and Opportunities](https://www.esgtoday.com/upright-launches-new-ai-model-to-quantify-companies-sustainability-impacts-risks-and-opportunities/)
+
 - [20260604 - Sweep, HowGood Partner on Product Carbon Footprint Solutions for Food and Ag Companies](https://www.esgtoday.com/sweep-howgood-partner-on-product-carbon-footprint-solutions-for-food-and-ag-companies/)
 
 - [20260601 - Eurazeo’s Impact Buyout Fund Acquires Circular Economy Platform T1A](https://www.esgtoday.com/eurazeos-impact-buyout-fund-acquires-circular-economy-platform-t1a/)
