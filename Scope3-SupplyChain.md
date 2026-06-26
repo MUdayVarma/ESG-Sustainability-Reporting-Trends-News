@@ -1,6 +1,8 @@
 
 # Supply Chain 
 
+- [20260625 - UK to Introduce Mandatory Supply Chain Deforestation Due Diligence Rules](https://www.esgtoday.com/uk-to-introduce-mandatory-supply-chains-deforestation-due-diligence-rules/)
+  
 - [20260622 - Dubai based DP World Launches New Suite of Supply Chain Sustainability Solutions](https://www.esgtoday.com/dp-world-launches-new-suite-of-supply-chain-sustainability-solutions/)
   
 - [20260527 - McDonald’s to Miss 2030 Value Chain Decarbonization Goal, Remains Committed to Net Zero by 2050](https://www.esgtoday.com/mcdonalds-to-miss-2030-value-chain-decarbonization-goal-remains-committed-to-net-zero-by-2050/)
