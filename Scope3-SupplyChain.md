@@ -1,6 +1,8 @@
 
 # Supply Chain 
 
+- [20260623 - AI’s Role in Building More Sustainable Supply Chains](https://www.esgtoday.com/ais-role-in-building-more-sustainable-supply-chains/)
+  
 - [20260625 - UK to Introduce Mandatory Supply Chain Deforestation Due Diligence Rules](https://www.esgtoday.com/uk-to-introduce-mandatory-supply-chains-deforestation-due-diligence-rules/)
   
 - [20260622 - Dubai based DP World Launches New Suite of Supply Chain Sustainability Solutions](https://www.esgtoday.com/dp-world-launches-new-suite-of-supply-chain-sustainability-solutions/)
