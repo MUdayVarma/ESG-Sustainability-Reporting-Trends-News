@@ -16,6 +16,8 @@
 
 # ESG Reporting / From Regulatory Bodies
 
+-  [20260623 - EBA Simplifies ESG Reporting for Banks, Extends Disclosure Requirements to Smaller Institutions for First Time](https://www.esgtoday.com/eba-simplifies-esg-reporting-for-banks-extends-disclosure-requirements-to-smaller-institutions-for-first-time/)
+  
 - [20260312 - 90% of Companies No Longer in CSRD Scope Plan to Maintain, Expand Sustainability Reporting: Survey](https://www.esgtoday.com/90-of-companies-no-longer-in-csrd-scope-plan-to-maintain-expand-sustainability-reporting-survey/)
   
 - [20260305 - EU States Approve Target to Reduce Emissions 90% by 2040](https://www.esgtoday.com/eu-states-give-final-approval-to-target-to-reduce-emissions-90-by-2040/)
@@ -42,6 +44,8 @@
   - The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial markets, announced the launch of a consultation into a new proposal to significantly revise and expand sustainability reporting requirements for listed companies, including a new requirement for companies to implement the UK’s upcoming IFRS-based Sustainability Reporting Standards (UK SRS) in their disclosures. The new proposed rules would come into force at the beginning of 2027
 
 ## European Union Related
+
+- [20260624 - EU Member States Propose Dropping Exclusion of Fossil Fuel Companies from New SFDR Transition Fund Category](https://www.esgtoday.com/eu-member-states-propose-dropping-exclusion-of-fossil-fuel-companies-from-new-sfdr-transition-fund-category)
 
 - [20260604 - NBIM Calls on EU to Allow Companies to Meet ESRS and ISSB Requirements in a Single Report](https://www.esgtoday.com/nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report)
   
