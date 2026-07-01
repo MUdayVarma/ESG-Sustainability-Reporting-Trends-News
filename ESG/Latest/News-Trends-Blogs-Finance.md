@@ -7,6 +7,11 @@
     
   - [20260427 - SpeedRead Sustainability #81: Weekly Highlights](https://www.linkedin.com/pulse/speedread-sustainability-81-weekly-highlights-antonio-vizcaya-abdo--gdbye/)
 
+## Carbon, Capital & Climate
+
+  - [20260630 - Carbon, Capital & Climate: This Week's Biggest ESG Developments](https://www.linkedin.com/pulse/carbon-capital-climate-weeks-biggest-esg-developments-9ayqf/)
+
+  - 
     
 # Blogs 
 
