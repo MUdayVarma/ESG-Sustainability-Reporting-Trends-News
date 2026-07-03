@@ -28,6 +28,8 @@
 
 # Surveys
 
+  - [20260702 - Most Companies Still Struggle to Quantify Impact of Sustainability Risks and Opportunities: KPMG Survey](https://www.esgtoday.com/majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey/)
+    
   - [20260514 - Companies Anticipating $900 Billion Losses from Extreme Weather: CDP Report](https://www.esgtoday.com/companies-anticipating-900-billion-losses-from-extreme-weather-cdp-report/)
     
   - [20260205 - 38% of Companies’ Emissions Trajectories Are Aligned with Global Climate Goals: MSCI](https://www.esgtoday.com/only-38-of-companies-currently-on-track-with-global-climate-goals-msci/)
