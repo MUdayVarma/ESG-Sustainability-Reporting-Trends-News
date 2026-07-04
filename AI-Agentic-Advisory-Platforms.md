@@ -6,15 +6,18 @@
 [20260505 - Persefoni Launches Agentic AI to Help Companies Analyze Carbon Footprint](https://www.esgtoday.com/persefoni-launches-agentic-ai-to-help-companies-analyze-carbon-footprint/)
 
 # Platforms and Tools
-[20260121 - 'Lune' (supply chain CO2 intelligence and carbon solutions provider) Merges with 'gryn' (Scope 3 visibility platform) to Create Supply Chain Carbon Data Platform for Shipping and Logistics](https://www.esgtoday.com/lune-merges-with-gryn-to-create-supply-chain-carbon-data-platform-for-shipping-and-logistics/)
+
+- [20260626 - Carbon Credit Ratings Provider BeZero Acquires Climate Analytics Platform Cedar](https://www.esgtoday.com/carbon-credit-ratings-provider-bezero-acquires-sustainability-data-platform-cedar/)
+  
+- [20260121 - 'Lune' (supply chain CO2 intelligence and carbon solutions provider) Merges with 'gryn' (Scope 3 visibility platform) to Create Supply Chain Carbon Data Platform for Shipping and Logistics](https://www.esgtoday.com/lune-merges-with-gryn-to-create-supply-chain-carbon-data-platform-for-shipping-and-logistics/)
   - 'gryn' provides software that allows shippers to more easily engage with their logistics providers and consolidate shipment-level data across complex supply chains to support emissions reporting.
   - London-based 'Lune' offers an API that integrates directly into logistics service providers’ systems, generating automated and granular CO2 calculations, as well as supporting access to high-quality carbon projects.
 
 # Advisory Services
-
+  
 - [20260219 - EY Launches Framework to Help Companies Embed Sustainability Across the Enterprise](https://www.esgtoday.com/ey-launches-framework-to-help-companies-embed-sustainability-across-the-enterprise/)
   
-[20251023 - Schneider Electric Launches Global Consulting Practice to Advise on Sustainability, Energy, Technology](https://www.esgtoday.com/schneider-electric-launches-global-consulting-practice-to-advise-on-sustainability-energy-technology/) The new practice brings together several of Schneider Electric’s areas of expertise to offer enterprise-wide initiatives and site-level operations across four core domains, including
+- [20251023 - Schneider Electric Launches Global Consulting Practice to Advise on Sustainability, Energy, Technology](https://www.esgtoday.com/schneider-electric-launches-global-consulting-practice-to-advise-on-sustainability-energy-technology/) The new practice brings together several of Schneider Electric’s areas of expertise to offer enterprise-wide initiatives and site-level operations across four core domains, including
   -  “Sustainable Business & Industrial Transformation,” to guide transition planning through areas including
       -  digital transformation,
       -  process electrification,
