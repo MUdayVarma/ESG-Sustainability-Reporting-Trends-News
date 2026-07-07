@@ -45,6 +45,8 @@
 
 ## European Union Related
 
+- [20260706 - European Commission Adopts Finalized Corporate Sustainability Reporting Standards](https://www.esgtoday.com/european-commission-adopts-finalized-corporate-sustainability-reporting-standards/)
+  
 - [20260624 - EU Member States Propose Dropping Exclusion of Fossil Fuel Companies from New SFDR Transition Fund Category](https://www.esgtoday.com/eu-member-states-propose-dropping-exclusion-of-fossil-fuel-companies-from-new-sfdr-transition-fund-category)
 
 - [20260604 - NBIM Calls on EU to Allow Companies to Meet ESRS and ISSB Requirements in a Single Report](https://www.esgtoday.com/nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report)
