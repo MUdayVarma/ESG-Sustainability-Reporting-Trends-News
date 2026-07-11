@@ -1,6 +1,8 @@
 
 # Agentic AI
 
+[20260709 - Carbon, Clean Energy & AI: The Forces Reshaping Global Sustainability](https://www.linkedin.com/pulse/carbon-clean-energy-ai-forces-reshaping-global-sustainability-eptec/)
+
 [20260708 - AI in Sustainability - Top 10 Must-Read Articles & Reports](https://www.linkedin.com/pulse/ai-sustainability-top-10-must-read-articles-reports-arpit-sharma-gjmzc/)
 
 [20260507 - AI Governance Is Becoming a Supply Chain Risk — Not Just an ESG Issue](https://www.esgtoday.com/ai-governance-is-becoming-a-supply-chain-risk-not-just-an-esg-issue/)
