@@ -1,6 +1,8 @@
 
 # SBTi based Targets
 
+- [20260709 - 20260709 - What Manufacturers and Suppliers Need to Know About SBTi’s V2.0 Updates](https://www.esgtoday.com/what-manufacturers-and-suppliers-need-to-know-about-sbtis-v2-0-updates/)
+  
 - [20260611 - SBTi Releases Finalized New Corporate Net Zero Standard](https://www.esgtoday.com/sbti-releases-finalized-new-corporate-net-zero-standard/)
   
 - [20260521 - SBTi Broadens Focus from Climate Target Setting to Implementation](https://www.esgtoday.com/sbti-broadens-focus-from-climate-target-setting-to-implementation/)
