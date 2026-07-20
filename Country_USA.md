@@ -11,6 +11,8 @@
 
 # New Projects
 
+- [20260715 - Google Signs Massive Clean Energy Deal with Largest Solar Project in U.S.](https://www.esgtoday.com/google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s/)
+  
 - [20260618 - Trump Administration Signs $765 Million Deal with Invenergy to Swap Offshore Wind Projects for Natural Gas, Geothermal](https://www.esgtoday.com/trump-administration-signs-765-million-deal-with-invenergy-to-swap-offshore-wind-projects-for-natural-gas-geothermal/)
 
 - 
