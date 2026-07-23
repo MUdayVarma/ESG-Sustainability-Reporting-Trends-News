@@ -36,6 +36,8 @@
 
 # Scope 3 
 
+- [20260722 - California to Limit Initial Scope 3 Reporting to Key Categories After Cost, Data Concerns](https://www.esgtoday.com/california-to-limit-initial-scope-3-reporting-to-key-categories-after-cost-data-concerns/)
+  
 - [20260629 - Scope 3 just became a trade barrier](https://greenmentor101.substack.com/p/scope-3-just-became-a-trade-barrier)
   
 - [20260626 - French energy giant TotalEnergies must identify and disclose measures to address climate risks resulting from Scope 3 greenhouse gas](https://www.esgtoday.com/paris-court-orders-totalenergies-to-address-climate-risks-from-customers-use-of-its-products/)
