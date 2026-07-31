@@ -44,6 +44,8 @@
 
 # Governments and Regulators and Standards
 
+  - [20260729 - ISO, GHG Protocol to Launch a Single Unified Carbon Accounting Standard](https://www.esgtoday.com/iso-ghg-protocol-to-launch-a-single-unified-carbon-accounting-standard/)
+    
   - [20260119: ECB to Intensify Monitoring of Physical Climate Risk Impact, Transition Plans for Banks](https://www.esgtoday.com/ecb-to-intensify-monitoring-of-physical-climate-risk-impact-transition-plans-for-banks/)
       - The European Central Bank (ECB) revealed a series of new priority areas to advance its work on embedding climate and nature-related risks into its activities, including plans to intensity its work in areas including assessing banks’ green economy transition plans and on analyzing their capabilities to address risks related to the growing physical impacts of climate change.
       - Under the green transition priority area the ECB said that it aims to focus on aspects including assessing banks’ prudential transition plans, further analysis on energy and fiscal costs, and exploring how climate-related considerations could be further incorporated into the operational framework.
