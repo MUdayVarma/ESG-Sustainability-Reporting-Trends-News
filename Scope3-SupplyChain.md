@@ -36,6 +36,7 @@
 
 # Scope 3 
 
+- [20260803 - Cheat sheet for Scope-3 GHG Emissions](https://www.linkedin.com/pulse/cheat-sheet-scope-3-ghg-emissions-arpit-sharma-f6ovc/)
 - [20260722 - California to Limit Initial Scope 3 Reporting to Key Categories After Cost, Data Concerns](https://www.esgtoday.com/california-to-limit-initial-scope-3-reporting-to-key-categories-after-cost-data-concerns/)
   
 - [20260629 - Scope 3 just became a trade barrier](https://greenmentor101.substack.com/p/scope-3-just-became-a-trade-barrier)
