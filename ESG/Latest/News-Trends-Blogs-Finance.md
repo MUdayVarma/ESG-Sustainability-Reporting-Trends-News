@@ -15,6 +15,8 @@
     
 # Blogs 
 
+  - [20260806 - Sustainability is becoming the next growth strategy for India's MSME's](https://greenmentor101.substack.com/p/sustainability-is-becoming-the-next)
+    
   - [20260722 - From Carbon to Constraints: Why Sustainability Is Becoming a Growth Strategy](https://www.esgtoday.com/from-carbon-to-constraints-why-sustainability-is-becoming-a-growth-strategy/)
     
   - [20260712 - Climate Risk Assessment (CRA) is still outside the comfort zone of more than 90% sustainability professionals](https://www.linkedin.com/pulse/climate-risk-assessment-arpit-sharma-b5ixc/)
